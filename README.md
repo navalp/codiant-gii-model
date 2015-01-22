@@ -1,5 +1,10 @@
 # codiant-gii-model
+Installation
 
+The preferred way to install this extension is through composer.
+
+composer.phar require navalp/codiant-gii-model:"*"
+The generators are registered automatically in the application bootstrap process, if the Gii module is enabled
 Model generator--
 ·	It is used to generates separate model classes to customize ,base and query models classes to regenerate.
 ·	Use different templates for model generation.
