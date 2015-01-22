@@ -1,5 +1,5 @@
 {
-    "name": "codiant-yii2-model",
+    "name": "navalp/codiant-gii-model",
     "description": "Gii Model generator for Yii 2 Framework",
     "keywords": ["yii2", "gii", "crud"],
     "homepage": "https://github.com/navalp/codiant-gii-model",
