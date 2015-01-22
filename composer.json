@@ -4,6 +4,7 @@
     "keywords": ["yii2", "gii", "crud"],
     "homepage": "https://github.com/navalp/codiant-gii-model",
     "type": "yii2-extension",
+    "version": "1.0.0",
     "license": "",
     "authors": [
         {
