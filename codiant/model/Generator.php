@@ -1,5 +1,7 @@
 <?php
-
+/**
+ * @author Codiant
+ */
 namespace codiant\model;
 use Yii;
 use yii\db\ActiveRecord;
